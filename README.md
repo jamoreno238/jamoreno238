@@ -1,7 +1,7 @@
 <img src="https://imgur.com/P4BS1KF.png">
 <br>
 <h1 align="center">Hi 👋, I'm Josué Moreno</h1>
-<h3 align="center">Software Engineer graduated from the Escuela Superior Politécnica del Ejército (ESPE) with experience in Full Stack development, focused on creating innovative and high-impact technological solutions.</h3>
+<h3 align="center">Software Engineer graduated from the Escuela Superior Politécnica del Ejército (ESPE) in Ecuador with experience in Full Stack development, focused on creating innovative and high-impact technological solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamoreno238&label=Profile%20views&color=0e75b6&style=flat" alt="jamoreno238" /> </p>
 
