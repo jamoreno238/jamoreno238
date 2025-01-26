@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer graduated from the Escuela Superior Politécnica del Ejército (ESPE) with experience in Full Stack development, focused on creating innovative and high-impact technological solutions.</h3>
 
 <img src="https://imgur.com/P4BS1KF.png">
-<img src="https://i.imgur.com/weNbhGZ.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamoreno238&label=Profile%20views&color=0e75b6&style=flat" alt="jamoreno238" /> </p>
 
